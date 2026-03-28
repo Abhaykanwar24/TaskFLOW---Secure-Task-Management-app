@@ -91,10 +91,4 @@ TodoApp/
 └── README.md                # Project Documentation
 ```
 
-## 📜 License
 
-This project is licensed under the generic MIT License - see the LICENSE file for details.
-
----
-
-Made with ❤️ by [Abhay Kanwar](https://github.com/Abhaykanwar24)
